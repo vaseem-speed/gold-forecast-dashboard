@@ -33,7 +33,7 @@ $$P_{\text{India}} = \left(\frac{P_{\text{Gold (USD/oz)}}}{31.1035} \times 10 \t
 
 ## Project Structure
 
-```text
+```text St
 gold-forecast-dashboard/
 ├── index.html   # Single-file interactive dashboard (HTML5, Tailwind CSS, Chart.js)
 └── README.md    # Project documentation & econometric methodology
